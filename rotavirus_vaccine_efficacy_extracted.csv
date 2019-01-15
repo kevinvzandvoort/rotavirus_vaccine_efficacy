@@ -1,0 +1,51 @@
+mortality,study,country,strata,vaccine,period,follow_up_end,follow_up_mid,cases_placebo,N_placebo,cases_vaccine,N_vaccine
+High,RV1 Colgate 2016 - Bangladesh,Bangladesh,Asia,Rotarix,Period 1,8.076923077,4.038461538,34.916,301,9.052,292
+High,RV1 Cunliffe 2012-MWI,Malawi,Africa,Rotarix,Period 1,7.661538462,3.830769231,38,483,21,525
+High,RV1 Cunliffe 2012-MWI,Malawi,Africa,Rotarix,Period 2,15.58153846,7.790769231,15,483,17,525
+High,RV1 Madhi 2010-ZAFMWI,South Africa,Africa,Rotarix,Period 1,7.661538462,3.830769231,9,408,5,418
+High,RV1 Madhi 2012-ZAF,South Africa,Africa,Rotarix,Period 2,15.58153846,7.790769231,4,408,4,418
+High,RV1 Cunliffe 2012-MWI,Malawi,Africa,Rotarix,Period 1,7.661538462,3.830769231,38,483,20,505
+High,RV1 Cunliffe 2012-MWI,Malawi,Africa,Rotarix,Period 2,15.58153846,7.790769231,15,483,12,505
+High,RV1 Madhi 2010-ZAFMWI,South Africa,Africa,Rotarix,Period 1,7.661538462,3.830769231,9,408,1,425
+High,RV1 Madhi 2012-ZAF,South Africa,Africa,Rotarix,Period 2,15.58153846,7.790769231,4,408,1,425
+High,RV5 Zaman 2010-BGD,Bangladesh,Asia,Rotateq,Period 1,7.984615385,3.992307692,31,565,17,563
+High,RV5 Zaman 2010-BGD,Bangladesh,Asia,Rotateq,Period 2,14.66958904,7.334794521,25,565,16,563
+High,RV5 Armah 2010-Africa,Ghana,Africa,Rotateq,Period 1,8.030769231,4.015384615,42,1081,15,1081
+High,RV5 Armah 2010-Africa,Ghana,Africa,Rotateq,Period 2,14.51835616,7.259178082,15,1081,11,1081
+High,RV5 Armah 2010-Africa,Kenya,Africa,Rotateq,Period 1,8.053846154,4.026923077,12,611,2,610
+High,RV5 Armah 2010-Africa,Kenya,Africa,Rotateq,Period 2,12.30575342,6.152876712,2,611,3,610
+High,RV5 Armah 2010-Africa,Mali,Africa,Rotateq,Period 1,8.469230769,4.234615385,4,921,4,921
+High,RV5 Armah 2010-Africa,Mali,Africa,Rotateq,Period 2,14.88986301,7.444931507,54,921,44,921
+High,ROTASIL - Insanaka- Niger,Niger,Africa,Rotasil,Period 1,5.630769231,2.815384615,87,1728,31,1780
+High,ROTASIL Kulkarni 2017 India,India,Asia,Rotasil,Period 1,8.298082192,4.149041096,94,3502,61,3533
+High,ROTASIL Kulkarni 2017 India,India,Asia,Rotasil,Period 2,20.02849315,10.01424658,181,3502,110,3533
+High,ROTAVAC Bhandari 2014-India,India,Asia,Rotavac,Period 1,8.238461538,4.119230769,64,2187,56,4354
+High,ROTAVAC Bhandari 2014-India,India,Asia,Rotavac,Period 2,13.43846154,6.719230769,12,2187,15,4354
+High,RV3BB-Bines forthcoming,Indonesia,Asia,RV3BB,Period 1,7.545205479,3.77260274,17,504,4,511
+High,RV3BB-Bines forthcoming,Indonesia,Asia,RV3BB,Period 2,13.54520548,6.77260274,11,504,10,511
+Medium,RV1 Li 2014-CHINA,China,"",Rotarix,Period 1,4,2,32,1573,8,1575
+Medium,RV1 Li 2014-CHINA,China,"",Rotarix,Period 2,16.54027397,8.270136986,75,1573,21,1575
+Medium,RV1 Salinas 2005-LA,Latin Am. (n=3),"",Rotarix,Period 1,7.461538462,3.730769231,34,454,27,1392
+Medium,RV1 Tregnaghi 2011-LAC,Latin Am. (n=6),"",Rotarix,Period 1,7.861538462,3.930769231,19,2099,7,4211
+Medium,RV1 Linhares 2008-LAC,Latin Am. (n=10),"",Rotarix,Period 1,8.761538462,4.380769231,58,7081,10,7205
+Medium,RV1 Linhares 2008-LAC,Latin Am. (n=10),"",Rotarix,Period 2,20.46153846,10.23076923,103,7081,22,7205
+Medium,RV5 Mo unpublished - China,China,"",Rotateq,Period 1,9.8,4.9,52,1946,11,1930
+Medium,RV5_REST_Vesikari 2007 IJID,Latin Am. (n=5),"",Rotateq,Period 1,19,9.5,10,2237,1,2252
+Medium,RV5 Grant 12,USA (Navajo),"",Rotateq,Period 1,8.769230769,4.384615385,37,403,4,392
+Medium,RV5 Zaman 2010-BGD,Viet nam,"",Rotateq,Period 1,7.984615385,3.992307692,7,442,2,446
+Medium,RV5 Zaman 2010-BGD,Viet nam,"",Rotateq,Period 2,12.30246575,6.151232877,8,442,3,446
+Low,RV1_Europe_Vesikari 2007 Lancet,Europe (n=6),"",Rotarix,Period 1,5.261538462,2.630769231,60,1302,5,2572
+Low,RV1_Europe_Vesikari 2007 Lancet,Europe (n=6),"",Rotarix,Period 2,17.26153846,8.630769231,67,1302,19,2572
+Low,RV1 Vesikari 2004b-FIN,Finland,"",Rotarix,Period 1,5.261538462,2.630769231,5,123,1,245
+Low,RV1 Vesikari 2004b-FIN,Finland,"",Rotarix,Period 2,17.26153846,8.630769231,5,123,2,245
+Low,RV1 Kawamura 2011-JPN,Japan,"",Rotarix,Period 1,20.62153846,10.31076923,12,250,2,498
+Low,RV1 Phua 2012-ASIA,SE Asia (n=3),"",Rotarix,Period 1,7.384615385,3.692307692,15,5256,0,5263
+Low,RV1 Phua 2009-ASIA,SE Asia (n=3),"",Rotarix,Period 2,19.46153846,9.730769231,36,5256,2,5263
+Low,RV1 Phua 2012-ASIA,SE Asia (n=3),"",Rotarix,Period 3,31.66153846,15.83076923,13,5256,0,5263
+Low,RV1 Bernstein 1999-USA,USA,"",Rotarix,Period 1,7,3.5,18,107,2,108
+Low,RV5_REST_Vesikari 2010 Vaccine Europe,Europe (n=5),"",Rotateq,Period 1,13.3,6.65,43,1188,0,1120
+Low,RV5_REST_Vesikari 2010 Vaccine Europe,Europe (n=5),"",Rotateq,Period 2,19,9.5,18,1188,1,1120
+Low,RV5_REST_Vesikari 2007 IJID,USA,"",Rotateq,Period 1,19,9.5,58,12179,3,12284
+Low,RV5 Block 2007-Finland/USA,Finland/USA,"",Rotateq,Period 1,4.437295625,2.218647813,6,661,0,651
+Low,RV5 Iwata 2013-Japan,Japan,"",Rotateq,Period 1,6.739726027,3.369863014,10,381,0,380
+Low,RV5 Clark 2004-USA,USA,"",Rotateq,Period 1,5.533150685,2.766575342,8,183,0,187
