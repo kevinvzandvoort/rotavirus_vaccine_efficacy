@@ -1,4 +1,4 @@
-This repository is supplemental to the paper: Efficacy of live oral rotavirus vaccines by duration of follow-up: a meta-regression of randomised controlled trials
+This repository is supplemental to the paper: Efficacy of live oral rotavirus vaccines by duration of follow-up: a meta-regression of randomised controlled trials. https://doi.org/10.1016/S1473-3099(19)30126-4
 
 DATA
 The data for the pooled analysis is provided in rotavirus_vaccine_efficacy_extracted.csv
